@@ -1,4 +1,4 @@
-gcj
+GCJ
 ===
 
-my solution for Google Code Jam 2014.
+My solutions to Google Code Jam 2014.
